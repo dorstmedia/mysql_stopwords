@@ -1,6 +1,6 @@
 ; GERMAN STOPWORDS
-; Zusammmengetragen von Marco Götze, Steffen Geyer
-; LAST UPDATE 12/2016
+; Zusammmengetragen von Marco Götze, Steffen Geyer, Patrick Dorst
+; LAST UPDATE 04/2023
 ; Web Stopwords, more information at Source Link below!
 ; www.solariz.de
 ; Source and more Information: https://solariz.de/de/downloads/6/german-enhanced-stopwords.htm
